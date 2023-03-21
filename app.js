@@ -34,7 +34,7 @@ function handlesubmit(e) {
 
 }
 
-// Récupére les emplacements du résultats
+// Récupérer les emplacements du résultats
 
 const titleResult = document.querySelector(".results h2");
 const markResult = document.querySelector(".mark");
