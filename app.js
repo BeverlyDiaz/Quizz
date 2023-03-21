@@ -108,7 +108,7 @@ function showResults(results) {
 
 const questions = document.querySelectorAll(".question-block");
 
-// Afficher les couleurs rouge et vert en fonction des résultats 
+// Afficher les couleurs en fonction des résultats 
 
 function addColors(results) {
     results.forEach((response, index) => {
